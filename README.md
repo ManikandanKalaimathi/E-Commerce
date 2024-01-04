@@ -47,7 +47,6 @@ License :
 This project is licensed under the ManikandanKalaimathi/E-Commerce License - see the LICENSE file for details.
 
 Screenshots :
-![Screenshot (140)](https://github.com/ManikandanKalaimathi/E-Commerce/assets/120374567/8a97806e-296b-4be9-9695-4ad9ea61c17d)
 
 ![Screenshot (144)](https://github.com/ManikandanKalaimathi/E-Commerce/assets/120374567/d8c7b8e0-3f3c-45b9-810f-566144175223)
 
